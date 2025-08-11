@@ -376,10 +376,110 @@ Request API Access to Ecoflow United States:
 - AC Charging Power 
 
 *Selects*
-- DC (12V) Charge Current 
-- Screen Timeout 
-- Unit Timeout 
-- AC Timeout 
+- DC (12V) Charge Current
+- Screen Timeout
+- Unit Timeout
+- AC Timeout
+
+</p></details>
+
+<details><summary> DELTA_PRO_3 <i>(sensors: 71, switches: 6, sliders: 6, selects: 4)</i> </summary>
+<p>
+
+*Sensors*
+- Main Battery Level
+- Main Battery Level (Precise)  _(disabled)_
+- Main Design Capacity  _(disabled)_
+- Main Full Capacity  _(disabled)_
+- Main Remain Capacity  _(disabled)_
+- State of Health
+- Battery Level
+- Battery Level (Precise)  _(disabled)_
+- Total In Power
+- Total Out Power
+- Main Battery Current
+- AC In Power
+- AC Out Power
+- AC In Volts
+- AC Out Volts
+- Solar In Power
+- Solar In Voltage
+- Solar In Current
+- DC Out Power
+- DC Out Voltage
+- DC Car Out Power
+- DC Anderson Out Power
+- Type-C (1) Out Power
+- Type-C (2) Out Power
+- USB (1) Out Power
+- USB (2) Out Power
+- USB QC (1) Out Power
+- USB QC (2) Out Power
+- Charge Remaining Time
+- Discharge Remaining Time
+- Cycles
+- Battery Temperature
+- Min Cell Temperature  _(disabled)_
+- Max Cell Temperature  _(disabled)_
+- Battery Volts  _(disabled)_
+- Min Cell Volts  _(disabled)_
+- Max Cell Volts  _(disabled)_
+- Solar In Energy
+- Battery Charge Energy from AC
+- Battery Charge Energy from DC
+- Battery Discharge Energy to AC
+- Battery Discharge Energy to DC
+- Slave 1 Battery Level  _(auto)_
+- Slave 1 Battery Level (Precise)  _(disabled)_
+- Slave 1 Design Capacity  _(disabled)_
+- Slave 1 Full Capacity  _(disabled)_
+- Slave 1 Remain Capacity  _(disabled)_
+- Slave 1 State of Health
+- Slave 1 Battery Temperature  _(auto)_
+- Slave 1 In Power  _(auto)_
+- Slave 1 Out Power  _(auto)_
+- Slave 2 Battery Level  _(auto)_
+- Slave 2 Battery Level (Precise)  _(disabled)_
+- Slave 2 Design Capacity  _(disabled)_
+- Slave 2 Full Capacity  _(disabled)_
+- Slave 2 Remain Capacity  _(disabled)_
+- Slave 2 State of Health
+- Slave 1 Battery Volts  _(disabled)_
+- Slave 1 Min Cell Volts  _(disabled)_
+- Slave 1 Max Cell Volts  _(disabled)_
+- Slave 1 Battery Current  _(disabled)_
+- Slave 2 Battery Volts  _(disabled)_
+- Slave 2 Min Cell Volts  _(disabled)_
+- Slave 2 Max Cell Volts  _(disabled)_
+- Slave 2 Battery Current  _(disabled)_
+- Slave 2 Battery Temperature  _(auto)_
+- Slave 2 In Power  _(auto)_
+- Slave 2 Out Power  _(auto)_
+- Slave 1 Cycles  _(disabled)_
+- Slave 2 Cycles  _(disabled)_
+- Status
+
+*Switches*
+- Beeper
+- DC (12V) Enabled
+- AC Enabled
+- X-Boost Enabled
+- AC Always On
+- Backup Reserve Enabled
+
+*Sliders (numbers)*
+- Max Charge Level
+- Min Discharge Level
+- Backup Reserve Level
+- Generator Auto Start Level
+- Generator Auto Stop Level
+- AC Charging Power
+
+*Selects*
+- DC (12V) Charge Current
+- Screen Timeout
+- Unit Timeout
+- AC Timeout
 
 </p></details>
 
